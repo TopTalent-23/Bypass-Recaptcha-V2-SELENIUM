@@ -1,6 +1,7 @@
 <div align='center'>
 
-# Google Recaptcha v2 <img src='https://github.com/x404xx/Bypass-Recaptcha-V2-SELENIUM/assets/114883816/6f65b89c-3c57-465b-ad3c-87edb2efef2f' width='30px'>
+# Bypass-Recaptcha-V2-SELENIUM
+
 
 **BypassV2** tool for bypassing google recaptcha v2 using `undetected-chromedriver`.
 
